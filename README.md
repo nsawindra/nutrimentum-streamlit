@@ -79,3 +79,7 @@ Both systems use `nutrition_data.csv` as their knowledge base.
 1. Frederick Godiva (Team Lead)
 2. Christian Nathaniel (Image Classification)
 3. Rafael Simarmata (Recommendation System)
+4. Nabilah Putri Sawindra (Fullstack Engineer)
+5. Laila Zahrotul Firdausil Jannah (Fullstack Engineer)
+6. Muhammad Arif (Fullstack Engineer)
+
